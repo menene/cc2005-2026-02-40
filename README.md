@@ -12,6 +12,12 @@ pensamiento algorítmico.
 - Entrada y salida de datos
 - Operadores aritméticos, relacionales y lógicos
 - Estructuras condicionales
+- Ciclo while
+- Ciclo for
+- Funciones
+- Cadenas de texto
+- Listas
+- Diccionarios
 
 ## Estructura del repositorio
 
@@ -29,6 +35,51 @@ pensamiento algorítmico.
 │   ├── simple_condicion_compleja.py
 │   ├── simple_if_else.py
 │   └── simple_solo_if.py
+├── 02_ciclo_while/
+│   ├── while_basico.py
+│   ├── while_contador.py
+│   ├── while_continue.py
+│   ├── while_estudiantes.py
+│   ├── while_menu.py
+│   ├── while_suma.py
+│   ├── while_tabla_multiplicar.py
+│   ├── while_validacion.py
+│   └── while_validacion_rango.py
+├── 03_ciclo_for/
+│   ├── for_anidado.py
+│   ├── for_basico.py
+│   ├── for_continue.py
+│   ├── for_promedio.py
+│   ├── for_promedio_n.py
+│   ├── for_range.py
+│   ├── for_suma.py
+│   └── for_tabla_multiplicar.py
+├── 04_funciones/
+│   ├── funciones_anidadas.py
+│   ├── funciones_basico.py
+│   ├── funciones_parametros.py
+│   ├── funciones_retorno.py
+│   └── notas_plus.py
+├── 05_cadenas/
+│   ├── longitud_indices.py
+│   ├── palindromo.py
+│   ├── recorrer_cadena.py
+│   └── validar_contrasena.py
+├── 06_listas/
+│   ├── lista_append.py
+│   ├── lista_clear.py
+│   ├── lista_doble.py
+│   ├── lista_extend.py
+│   ├── lista_remove.py
+│   └── menu_notas.py
+├── 07_diccionarios/
+│   ├── conteo_votos.py
+│   ├── dict_copy.py
+│   ├── dict_for.py
+│   ├── dict_get.py
+│   ├── dict_items.py
+│   ├── lista_diccionarios.py
+│   └── menu_estudiantes.py
 ├── encabezado.py
 ├── .gitignore
 └── README.md
